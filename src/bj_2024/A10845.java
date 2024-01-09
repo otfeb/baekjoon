@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 // 큐
-public class bj_10845 {
+public class A10845 {
 
 	static class Queue {
 		int[] queue = new int[10000];
